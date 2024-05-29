@@ -21,6 +21,5 @@
 - Time management
 - Active listening
 
-
 Connect with me:
-[GitHub](https://github.com/kpanchanok) | [LinkedIn](https://www.linkedin.com/in/panchanok-kaewchinda1998/) | [Portfolio] - Coming soon...
+[GitHub](https://github.com/kpanchanok) | [LinkedIn](https://www.linkedin.com/in/panchanok-kaewchinda1998/) | Portfolio - Coming soon...
