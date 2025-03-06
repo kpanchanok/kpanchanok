@@ -10,8 +10,7 @@
 
 🖥️ **Programming:**
 - Languages: C++, JAVA
-- Design Tools: Adobe XD, MS Office, MS Visual Studio, MS Visual Studio Code, IntelliJ IDEA
-- Operating Systems: Windows, Mac
+- Design Tools: Adobe XD, MS Visual Studio, MS Visual Studio Code, IntelliJ IDEA
 - Web Development: HTML, CSS3, JavaScript, Node.js, Express.js, Handlebars.js, GIT, Cyclic, Vercel
 
 🌐 **Others:**
